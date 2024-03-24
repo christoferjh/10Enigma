@@ -3,6 +3,7 @@ Binary enigma https://makerworld.com/en/models/247798#profileId-264026
 
 # Usage:
 The converter will replace all your spaces to "_" and it will also make your string uppercase.
+If you see a "Ö" in the output, something have gone wrong and check your input.
 
 ## Convert to binary
 ```python Enigma.py -B [text to convert to binary]```
