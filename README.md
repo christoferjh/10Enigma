@@ -5,11 +5,11 @@ Binary enigma https://makerworld.com/en/models/247798#profileId-264026
 The converter will replace all your spaces to "_" and it will also make your string uppercase.
 
 ## Convert to binary
-python Enigma.py -B [text to convert to binary]
-##Convert to text
-python Enigma.py -A [binary to convert to text]
-##Show convertion table
-python Enigma.py -T
+```python Enigma.py -B [text to convert to binary]```
+## Convert to text
+```python Enigma.py -A [binary to convert to text]```
+## Show convertion table
+```python Enigma.py -T```
 
 ## Examples
 ```
